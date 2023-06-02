@@ -1,0 +1,7 @@
+{
+  "name": "release-please",
+  "packageManager": "yarn@3.2.4",
+  "dependencies": {
+    "release-please": "^15.11.0"
+  }
+}
