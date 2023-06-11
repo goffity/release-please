@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/goffity/release-please/compare/v1.1.0...v1.2.0) (2023-06-11)
+
+
+### Features
+
+* **index.js:** add /healthz endpoint to return a 200 status code ([022ca05](https://github.com/goffity/release-please/commit/022ca05d8964cd1e833834127e474b214345e757))
+
 ## [1.1.0](https://github.com/goffity/release-please/compare/v1.0.0...v1.1.0) (2023-06-02)
 
 
